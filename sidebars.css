@@ -58,7 +58,7 @@ body
 main
 {
   width: 60%;
-  float: right;
+  float: left;
   position: relative;
   box-shadow: black 0px 0px 3px;
 }
